@@ -1,0 +1,21 @@
+{
+  "name": "guest_data",
+  "version": "1.0.0",
+  "description": "Guest Data",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "author": "Samitha athurupana",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "nodemon": "^3.1.11",
+    "save-dev": "^0.0.1-security",
+    "yargs": "^15.4.1"
+  }
+}
